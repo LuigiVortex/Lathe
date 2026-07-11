@@ -1,0 +1,14 @@
+# Maven
+target/
+
+# IntelliJ
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf/
+
+# Compiled classes
+*.class
+
+# Logs
+*.log
