@@ -1,0 +1,25 @@
+{
+  "id": "lathe_mod_loader",
+  "name": "Lathe",
+  "author": "LuigiVortex",
+  "minecraft": "b1.7.3",
+  "version": "1.0",
+
+  "dependencies": [],
+
+  "conflicts": [],
+
+  "replaces": [],
+
+  "knownIssues": [],
+
+  "website": "https://github.com/LuigiVortex/Lathe",
+  "description": "Mod Loader for Ancient Minecraft!",
+
+  "hashes": [
+    {
+      "sha256": "...",
+      "source": "Lathe"
+    }
+  ]
+}
